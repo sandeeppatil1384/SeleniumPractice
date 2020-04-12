@@ -1,0 +1,7 @@
+INFO    2020-04-09 12:44:43,968 [main] testcases.TestProperties  - OR properties are loaded !!!
+INFO    2020-04-09 12:44:43,971 [main] testcases.TestProperties  - config properties are loaded !!!
+INFO    2020-04-09 12:44:51,086 [main] testcases.TestProperties  - Chrome browser launched !!!
+INFO    2020-04-09 12:44:53,420 [main] testcases.TestProperties  - Navigated to :https://www.gmail.com
+INFO    2020-04-09 12:44:58,010 [main] testcases.TestProperties  - Typing in an Element : username_XPATHentered the value as :sandeepvpatil1984@gmail.com
+INFO    2020-04-09 12:44:58,226 [main] testcases.TestProperties  - Click on Next button field :nextButton_XPATH
+INFO    2020-04-09 12:44:58,982 [main] testcases.TestProperties  - Test Execution completed !!!
